@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Railscast sm-rc89
 ==================
 
@@ -55,3 +56,7 @@ To apply effect run server
 ```
 rails s
 ```
+=======
+sm-rc89
+=======
+>>>>>>> 2a34550a8d3bf88911384885208d8ec9a6a9b268
