@@ -1,10 +1,11 @@
-<<<<<<< HEAD
+
 Railscast sm-rc89
 ==================
 
 Page Caching..
 Its a caching technique , which allow to fulfill the request by web server instead by rails.
 A page is cached into a file , which then is served by front end server.
+If you want to reduce the amount of times your Rails app hits the database then why not add some page caching.
 
 Make repo..
 ```
@@ -56,7 +57,4 @@ To apply effect run server
 ```
 rails s
 ```
-=======
-sm-rc89
-=======
->>>>>>> 2a34550a8d3bf88911384885208d8ec9a6a9b268
+
