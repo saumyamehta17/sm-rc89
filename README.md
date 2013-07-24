@@ -14,7 +14,7 @@ cd sm-rc89
 
 Clone..
 ```
-git clone 
+git clone "https://github.com/sweetymehta/sm-rc89.git"
 ```
 
 Create Scaffolding..
